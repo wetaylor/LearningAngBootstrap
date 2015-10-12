@@ -1,2 +1,2 @@
 # LearningAngBootstrap
-tutorial work from Book
+tutorial work from Book.
